@@ -1,0 +1,8 @@
+prefix=/home/alg/fruit_counting/fruit_counting_ws/src/fruit_couting_base/cmake-build-default/devel
+
+Name: fruit_couting_base
+Description: Description of fruit_couting_base
+Version: 0.0.0
+Cflags: -I/home/alg/fruit_counting/fruit_counting_ws/src/fruit_couting_base/cmake-build-default/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp std_msgs message_runtime

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alg/fruit_counting/fruit_counting_ws/src/fruit_couting_base/cmake-build-default/devel/setup.sh
